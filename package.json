@@ -1,0 +1,24 @@
+{
+  "name": "celia-test-tyl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "cypress": "^8.1.0"
+  },
+  "scripts": {
+      "cy:run": "cypress run",
+      "cy:run:test": "cypress run -- --spec 'cypress/integration/shopper_test.js'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celiamp8/celia-test-tyl.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celiamp8/celia-test-tyl/issues"
+  },
+  "homepage": "https://github.com/celiamp8/celia-test-tyl#readme"
+}
