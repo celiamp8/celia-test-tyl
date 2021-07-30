@@ -17,6 +17,7 @@ The tests are written using Cypress.io and Javascript.
 
 ### How to run
 
+- Make sure to have NodeJs with a version >= 12
 - Download the repository
 - Run `npm install`
 - From the terminal, navigate to the repository's main folder: celia-test-tyl
